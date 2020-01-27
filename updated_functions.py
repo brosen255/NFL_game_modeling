@@ -13,7 +13,6 @@ import warnings
 from sklearn.neural_network import MLPClassifier
 from statistics import stdev,mean,median
 
-warnings.filterwarnings("ignore")
 
 def split_data(full,past_n_week = False,num_past_weeks=9,curr_year=2019):
 #     if 'Money_home' in list(full.columns):
