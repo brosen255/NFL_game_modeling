@@ -1,6 +1,6 @@
 # Machine Learning Prediction System using web scraped historical NFL team data
 
-[Research Paper](https://docs.google.com/document/d/e/2PACX-1vSFKWoisk9c6w5IxMzrcsQY1VJ1F-gAcOhV9mOc74hr8ozsyrTnHLjOBYkeBQ1jCt2PWsRFYHbPHpHN/pub)
+[Research Paper](https://docs.google.com/document/d/e/2PACX-1vRvH4dKm1Fxwbf2f98Mxffhxu41TuqC3rR6bBcocQuej5Cc79vp0FDSlEilbkiZQmezmrMt5o8KZw0Y/pub)
 -------------------------------------------------------
 ![Game Winner Accuracy](game_winner_accuracy.PNG)
 -------------------------------------------------------
